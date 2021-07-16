@@ -9,10 +9,10 @@ my main objective is to make the world a better place and carve my name into a e
 
 Programming languages I will learn(that will be ticked after i learn most of grammatic syntaxes):
 
-1. [_] java and kotlin for android development
-2. [_] a database lang
-3. [_] python
-4. [_] js for api development
+- [ ] java and kotlin for android development
+- [ ] a database lang
+- [ ] python
+- [ ] js for api development
 
 
 
