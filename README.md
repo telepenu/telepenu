@@ -7,10 +7,11 @@ At the end of the day, I'm going to get rid of all my addiction that cause procr
 my main objective is to make the world a better place and carve my name into a eternal(till the collision between our Milky Way galaxy and the Andromeda) stone.
 
 Programming languages I will learn(that will be ticked after i learn most of grammatic syntaxes):
-1.[]java and kotlin for android development
-2.[]a database lang
-3.[]python
-4.[]js for api development
+
+1.java and kotlin for android development
+2.a database lang
+3.python
+4.js for api development
 
 
 
