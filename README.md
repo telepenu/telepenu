@@ -1,4 +1,5 @@
-#ENGRAVED 
+#ENGRAVED
+
 >hi. i am enes,an electronicengineer who broke away from the heart of anatolian steppes where king telepinu lives.
 I always wanted to be a developer but procrastination got in the way.
 i think there is strong connection between dopamine and addiction.
@@ -8,10 +9,10 @@ my main objective is to make the world a better place and carve my name into a e
 
 Programming languages I will learn(that will be ticked after i learn most of grammatic syntaxes):
 
-1.java and kotlin for android development
-2.a database lang
-3.python
-4.js for api development
+1. java and kotlin for android development
+2. a database lang
+3. python
+4. js for api development
 
 
 
